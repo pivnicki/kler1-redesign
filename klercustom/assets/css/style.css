@@ -1,0 +1,196 @@
+ @media screen and (max-width: 1024px) and (min-width: 1023px) {
+    .fw-800 {
+    font-weight: 700;
+	}
+}
+
+ @media screen and (max-width: 1023px) and (min-width: 960px) {
+    .fw-800 {
+    font-weight: 700;
+	}
+}
+
+@media screen and (max-width: 991px) and (min-width: 960px) {
+	.carousel-caption {
+    top: 25%;
+    background-color: rgba(0, 0, 0, 0.36);
+}
+	.carousel-caption h4{
+		font-size:3em;
+	}
+	
+    .fw-800 {
+    font-weight: 700;
+	font-size: 3em;
+	}
+	
+	.cal-element {
+    background-color: #fff;
+    padding: 1% 4% 7% 6%;
+    height: 325px;
+}
+
+	.event-display h4 a {
+    text-decoration: none;
+    font-size: 1.5em;
+}
+
+.side-box {
+     padding-top: 1em;
+}
+}
+ @media screen and (max-width: 960px) and (min-width: 800px) {
+    .fw-800 {
+    font-weight: 700;
+	font-size: 3em;
+	}
+}
+
+@media screen and (max-width: 959px) and (min-width: 800px) {
+    .carousel-caption {
+    top: 25%;
+    background-color: rgba(0, 0, 0, 0.36);
+}
+	.carousel-caption h4{
+		font-size:3em;
+	}
+	
+    .fw-800 {
+    font-weight: 700;
+	font-size: 3em;
+	}
+	
+	.cal-element {
+    background-color: #fff;
+    padding: 1% 4% 7% 6%;
+    height: 325px;
+}
+
+	.event-display h4 a {
+    text-decoration: none;
+    font-size: 1.5em;
+}
+
+.side-box {
+     padding-top: 1em;
+}
+}
+
+@media screen and (max-width: 799px) and (min-width: 720px) {
+    .carousel-caption {
+    top: 25%;
+    background-color: rgba(0, 0, 0, 0.36);
+}
+	.carousel-caption h4{
+		font-size:3em;
+	}
+	
+    .fw-800 {
+    font-weight: 700;
+	font-size: 3em;
+	}
+	
+	.cal-element {
+    background-color: #fff;
+    padding: 1% 4% 7% 6%;
+    height: 325px;
+}
+
+	.event-display h4 a {
+    text-decoration: none;
+    font-size: 1.5em;
+}
+
+.side-box {
+     padding-top: 1em;
+}
+}
+
+@media screen and (max-width: 719px) and (min-width: 640px) {
+    .carousel-caption {
+    top: 25%;
+    background-color: rgba(0, 0, 0, 0.36);
+}
+	.carousel-caption h4{
+		font-size:3em;
+	}
+	
+    .fw-800 {
+    font-weight: 700;
+	font-size: 3em;
+	}
+	
+	.cal-element {
+    background-color: #fff;
+    padding: 1% 4% 7% 6%;
+    height: 325px;
+}
+
+	.event-display h4 a {
+    text-decoration: none;
+    font-size: 1.5em;
+}
+
+.side-box {
+     padding-top: 1em;
+}
+}
+
+@media screen and (max-width: 639px) and (min-width: 480px) {
+    .carousel-caption {
+    top: 25%;
+    background-color: rgba(0, 0, 0, 0.36);
+}
+	.carousel-caption h4{
+		font-size:3em;
+	}
+	
+    .fw-800 {
+    font-weight: 700;
+	font-size: 3em;
+	}
+	
+	.cal-element {
+    background-color: #fff;
+    padding: 1% 4% 7% 6%;
+    height: 325px;
+}
+
+	.event-display h4 a {
+    text-decoration: none;
+    font-size: 1.5em;
+}
+
+.side-box {
+     padding-top: 1em;
+}
+}
+
+@media screen and (max-width: 479px) and (min-width: 340px) {
+    .carousel-caption {
+    top: 25%;
+    background-color: rgba(0, 0, 0, 0.36);
+}
+	.carousel-caption h4{
+		font-size:3em;
+	}
+	
+    .fw-800 {
+    font-weight: 700;
+	font-size: 3em;
+	}
+	
+	.cal-element {
+    background-color: #fff;
+    padding: 1% 4% 7% 6%;
+    height: 325px;
+}
+
+	.event-display h4 a {
+     font-size: 30px;
+}
+
+.side-box {
+     padding-top: 1em;
+}
+}
